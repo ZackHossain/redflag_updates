@@ -89,7 +89,6 @@ def load_creds():
         token = data['bot_token']
         channel_id = data['channel_id']
     
-
 if __name__ == '__main__':
     load_creds()
     threading.Thread(target=run_flask, daemon=True).start()
