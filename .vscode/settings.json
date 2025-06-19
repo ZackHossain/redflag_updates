@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/main/notifier",
+        "./src/main/scraper",
+        "./src/main"
+    ]
+}

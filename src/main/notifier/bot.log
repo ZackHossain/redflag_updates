@@ -1,0 +1,215 @@
+[2025-06-17 15:50:11,921] [INFO] logging in using static token
+[2025-06-17 15:50:11,929] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-17 15:50:11,929] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-17 15:50:13,359] [INFO] Shard ID None has connected to Gateway (Session ID: 2527be3a1696cf47c8d9ace60ffaa5ec).
+[2025-06-17 15:50:15,363] [INFO] Bot Ready
+[2025-06-17 15:50:28,930] [INFO] 127.0.0.1 - - [17/Jun/2025 15:50:28] "POST /notify HTTP/1.1" 200 -
+[2025-06-17 15:50:29,358] [INFO] Bot sent message: "Hello from the other Python script!" to channel_id: 1384111938228719681
+[2025-06-17 16:07:07,602] [INFO] Shard ID None has successfully RESUMED session 2527be3a1696cf47c8d9ace60ffaa5ec.
+[2025-06-19 21:08:29,707] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-19 21:08:29,710] [INFO] logging in using static token
+[2025-06-19 21:08:29,716] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-19 21:08:29,716] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-19 21:08:31,352] [INFO] Shard ID None has connected to Gateway (Session ID: e18d0b37246d889a609ad5bb794cbe5a).
+[2025-06-19 21:08:33,357] [INFO] Bot Ready
+[2025-06-19 21:11:01,755] [INFO] 127.0.0.1 - - [19/Jun/2025 21:11:01] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:11:02,224] [INFO] Bot sent message: "redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:11:35,066] [INFO] 127.0.0.1 - - [19/Jun/2025 21:11:35] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:11:35,574] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:13:30,654] [INFO] 127.0.0.1 - - [19/Jun/2025 21:13:30] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:13:31,078] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:13:46,641] [INFO] 127.0.0.1 - - [19/Jun/2025 21:13:46] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:13:47,154] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:13:57,163] [INFO] 127.0.0.1 - - [19/Jun/2025 21:13:57] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:13:57,543] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:14:03,688] [INFO] 127.0.0.1 - - [19/Jun/2025 21:14:03] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:14:04,052] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:14:21,255] [INFO] 127.0.0.1 - - [19/Jun/2025 21:14:21] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:14:21,803] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:14:48,977] [INFO] 127.0.0.1 - - [19/Jun/2025 21:14:48] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:14:49,417] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:15:06,226] [INFO] 127.0.0.1 - - [19/Jun/2025 21:15:06] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:15:06,771] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:15:16,759] [INFO] 127.0.0.1 - - [19/Jun/2025 21:15:16] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:15:17,202] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:15:27,263] [INFO] 127.0.0.1 - - [19/Jun/2025 21:15:27] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:15:27,633] [INFO] Bot sent message: "https://redflag.org.au" to channel_id: 1384111938228719681
+[2025-06-19 21:17:20,381] [INFO] 127.0.0.1 - - [19/Jun/2025 21:17:20] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:17:20,870] [INFO] Bot sent message: "[redflag](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:19:54,802] [INFO] 127.0.0.1 - - [19/Jun/2025 21:19:54] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:19:55,390] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["hello"](https://redflag.org.au)
+" to channel_id: 1384111938228719681
+[2025-06-19 21:22:13,674] [INFO] 127.0.0.1 - - [19/Jun/2025 21:22:13] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:22:14,167] [INFO] Bot sent message: "New article(s) on Red Flag!
+" to channel_id: 1384111938228719681
+[2025-06-19 21:22:29,872] [INFO] 127.0.0.1 - - [19/Jun/2025 21:22:29] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:23:06,839] [INFO] 127.0.0.1 - - [19/Jun/2025 21:23:06] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:23:40,720] [INFO] 127.0.0.1 - - [19/Jun/2025 21:23:40] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:25:14,344] [INFO] 127.0.0.1 - - [19/Jun/2025 21:25:14] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:28:13,117] [INFO] 127.0.0.1 - - [19/Jun/2025 21:28:13] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:28:27,714] [INFO] 127.0.0.1 - - [19/Jun/2025 21:28:27] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:30:06,864] [INFO] 127.0.0.1 - - [19/Jun/2025 21:30:06] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:30:07,373] [INFO] Bot sent message: "New article(s) on Red Flag!
+* [""](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["When the first freedom flotilla broke the siege of Gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* [""](https://redflag.org.au/article/rogue-empire)
+* ["Rogue empire"](https://redflag.org.au/article/rogue-empire)
+* [""](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["The human cost of Israel’s war on Iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:31:00,050] [INFO] 127.0.0.1 - - [19/Jun/2025 21:31:00] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:31:00,503] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza"]({'title': '', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["When the first freedom flotilla broke the siege of Gaza"]({'title': 'When the first freedom flotilla broke the siege of Gaza', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["https://redflag.org.au/article/rogue-empire"]({'title': '', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["Rogue empire"]({'title': 'Rogue empire', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran"]({'title': '', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+* ["The human cost of Israel’s war on Iran"]({'title': 'The human cost of Israel’s war on Iran', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:31:50,981] [INFO] 127.0.0.1 - - [19/Jun/2025 21:31:50] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:31:51,636] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza"]({'title': '', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["When the first freedom flotilla broke the siege of Gaza"]({'title': 'When the first freedom flotilla broke the siege of Gaza', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["https://redflag.org.au/article/rogue-empire"]({'title': '', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["Rogue empire"]({'title': 'Rogue empire', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran"]({'title': '', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+* ["The human cost of Israel’s war on Iran"]({'title': 'The human cost of Israel’s war on Iran', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:32:48,069] [INFO] 127.0.0.1 - - [19/Jun/2025 21:32:48] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:32:48,554] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza"]({'title': '', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["When the first freedom flotilla broke the siege of Gaza"]({'title': 'When the first freedom flotilla broke the siege of Gaza', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["https://redflag.org.au/article/rogue-empire"]({'title': '', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["Rogue empire"]({'title': 'Rogue empire', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran"]({'title': '', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+* ["The human cost of Israel’s war on Iran"]({'title': 'The human cost of Israel’s war on Iran', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:33:34,055] [INFO] 127.0.0.1 - - [19/Jun/2025 21:33:34] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:33:34,475] [INFO] Bot sent message: "New article(s) on Red Flag!
+* [""]({'title': '', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* ["When the first freedom flotilla broke the siege of Gaza"]({'title': 'When the first freedom flotilla broke the siege of Gaza', 'href': 'https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza'})
+* [""]({'title': '', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* ["Rogue empire"]({'title': 'Rogue empire', 'href': 'https://redflag.org.au/article/rogue-empire'})
+* [""]({'title': '', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+* ["The human cost of Israel’s war on Iran"]({'title': 'The human cost of Israel’s war on Iran', 'href': 'https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran'})
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:34:04,864] [INFO] 127.0.0.1 - - [19/Jun/2025 21:34:04] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:34:05,481] [INFO] Bot sent message: "New article(s) on Red Flag!
+* [""](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["When the first freedom flotilla broke the siege of Gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* [""](https://redflag.org.au/article/rogue-empire)
+* ["Rogue empire"](https://redflag.org.au/article/rogue-empire)
+* [""](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["The human cost of Israel’s war on Iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:34:13,486] [INFO] 127.0.0.1 - - [19/Jun/2025 21:34:13] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:34:13,958] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["When the first freedom flotilla broke the siege of Gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["https://redflag.org.au/article/rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["Rogue empire"](https://redflag.org.au/article/rogue-empire)
+* ["https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["The human cost of Israel’s war on Iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:35:50,112] [INFO] 127.0.0.1 - - [19/Jun/2025 21:35:50] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:35:50,668] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["When the first freedom flotilla broke the siege of Gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["Rogue empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["The human cost of Israel’s war on Iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:36:04,131] [INFO] 127.0.0.1 - - [19/Jun/2025 21:36:04] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:36:04,480] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["When the first freedom flotilla broke the siege of Gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["Rogue empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:36:50,199] [INFO] 127.0.0.1 - - [19/Jun/2025 21:36:50] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:36:51,729] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+(AND MORE!)['https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:37:13,910] [INFO] 127.0.0.1 - - [19/Jun/2025 21:37:13] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:37:14,363] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+(AND MORE!)[https://redflag.org.au]" to channel_id: 1384111938228719681
+[2025-06-19 21:38:05,688] [INFO] 127.0.0.1 - - [19/Jun/2025 21:38:05] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:38:06,178] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:39:46,514] [INFO] 127.0.0.1 - - [19/Jun/2025 21:39:46] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:39:47,045] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:40:24,375] [INFO] 127.0.0.1 - - [19/Jun/2025 21:40:24] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:40:24,796] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:40:33,239] [INFO] 127.0.0.1 - - [19/Jun/2025 21:40:33] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:40:33,706] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:41:26,548] [INFO] 127.0.0.1 - - [19/Jun/2025 21:41:26] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:41:28,517] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:47:55,883] [INFO] 127.0.0.1 - - [19/Jun/2025 21:47:55] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:47:56,506] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+* ["the-human-cost-of-israels-war-on-iran"](https://redflag.org.au/article/the-human-cost-of-israels-war-on-iran)
+* ["victorian-socialists-conference-resolves-to-expand-party-organisation"](https://redflag.org.au/article/victorian-socialists-conference-resolves-to-expand-party-organisation)
+* ["Posing as a dog ‘for the girls’: what in god’s name is going on with pop culture?"](https://redflag.org.au/article/posing-as-a-dog-for-the-girls-what-in-gods-name-is-going-on-with-pop-culture)
+[AND MORE!](https://redflag.org.au)" to channel_id: 1384111938228719681
+[2025-06-19 21:51:13,753] [INFO] 127.0.0.1 - - [19/Jun/2025 21:51:13] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:51:14,114] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
+[2025-06-19 21:51:41,888] [INFO] 127.0.0.1 - - [19/Jun/2025 21:51:41] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:51:42,286] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+* ["rogue-empire"](https://redflag.org.au/article/rogue-empire)
+" to channel_id: 1384111938228719681
+[2025-06-19 21:51:59,061] [INFO] 127.0.0.1 - - [19/Jun/2025 21:51:59] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:51:59,597] [INFO] Bot sent message: "New article(s) on Red Flag!
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
+[2025-06-19 21:53:35,490] [INFO] Shard ID None has successfully RESUMED session e18d0b37246d889a609ad5bb794cbe5a.
+[2025-06-19 21:56:11,407] [INFO] 127.0.0.1 - - [19/Jun/2025 21:56:11] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 21:56:11,980] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
