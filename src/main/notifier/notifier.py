@@ -67,7 +67,8 @@ async def on_ready():
 
 # Sends a message to (global) channel_id
 async def notify_new_article(content):
-    channel = await client.get_channel(channel_id)
+    channel = client.get_channel(channel_id)
+    print('hello')
     if channel:
         await channel.send(content)
         log_info(f'Bot sent message: \"{content}\" to channel_id: {channel_id}')

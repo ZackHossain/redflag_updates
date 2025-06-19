@@ -8,7 +8,12 @@ def notify(content):
         "content": content
     }
     response = requests.post("http://127.0.0.1:5000/notify", json=message)
-    log_info(response.json())
+    log_info(
+        'POST /notify HTTP/1.1 response: '
+        + str(response.status_code)
+        + ' '
+        + str(response.json()['status'])
+    )
 
 # sends a message specified from command line
 # structure: python3 sender.py -t {message}

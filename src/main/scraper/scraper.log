@@ -3,3 +3,71 @@
 [2025-06-19 21:51:41,890] [INFO] {'status': 'Success'}
 [2025-06-19 21:51:59,063] [INFO] {'status': 'Success'}
 [2025-06-19 21:56:11,409] [INFO] {'status': 'Success'}
+[2025-06-19 22:11:18,341] [INFO] Scraped new articles
+[2025-06-19 22:11:27,560] [INFO] Scraped new articles
+[2025-06-19 22:12:46,213] [INFO] Scraped new articles
+[2025-06-19 22:12:50,136] [INFO] Scraped new articles
+[2025-06-19 22:13:20,972] [INFO] Scraped new articles
+[2025-06-19 22:13:20,981] [INFO] {'status': 'Success'}
+[2025-06-19 22:14:08,170] [INFO] Scraped new articles
+[2025-06-19 22:14:08,171] [INFO] Saved new articles to articles.json
+[2025-06-19 22:14:16,754] [INFO] Scraped new articles
+[2025-06-19 22:14:16,760] [INFO] {'status': 'Success'}
+[2025-06-19 22:14:16,760] [INFO] Saved new articles to articles.json
+[2025-06-19 22:14:41,807] [INFO] Scraped new articles
+[2025-06-19 22:14:41,808] [INFO] Saved new articles to articles.json
+[2025-06-19 22:14:54,418] [INFO] Scraped new articles
+[2025-06-19 22:14:54,419] [INFO] Notifying of new articles
+[2025-06-19 22:14:54,423] [INFO] {'status': 'Success'}
+[2025-06-19 22:14:54,423] [INFO] Saved new articles to articles.json
+[2025-06-19 22:15:19,869] [INFO] Scraped new articles
+[2025-06-19 22:15:19,870] [INFO] Saved new articles to articles.json
+[2025-06-19 22:15:24,213] [INFO] Scraped new articles
+[2025-06-19 22:15:24,213] [INFO] Notifying of new articles
+[2025-06-19 22:15:43,618] [INFO] Scraped new articles
+[2025-06-19 22:15:43,619] [INFO] Notifying of new articles
+[2025-06-19 22:15:43,623] [INFO] POST /notify HTTP 1.1 response: {'status': 'Success'}
+[2025-06-19 22:15:43,624] [INFO] Saved new articles to articles.json
+[2025-06-19 22:16:28,284] [INFO] Scraped new articles
+[2025-06-19 22:16:28,285] [INFO] Saved new articles to articles.json
+[2025-06-19 22:16:32,490] [INFO] Scraped new articles
+[2025-06-19 22:16:32,491] [INFO] Notifying of new articles
+[2025-06-19 22:16:40,855] [INFO] Scraped new articles
+[2025-06-19 22:16:40,856] [INFO] Notifying of new articles
+[2025-06-19 22:16:40,863] [INFO] POST /notify HTTP/1.1 response: 200Success
+[2025-06-19 22:16:40,864] [INFO] Saved new articles to articles.json
+[2025-06-19 22:16:54,416] [INFO] Scraped new articles
+[2025-06-19 22:16:54,416] [INFO] Notifying of new articles
+[2025-06-19 22:16:54,422] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:16:54,423] [INFO] Saved new articles to articles.json
+[2025-06-19 22:17:11,719] [INFO] Scraped new articles
+[2025-06-19 22:17:11,720] [INFO] Saved new articles to articles.json
+[2025-06-19 22:17:17,884] [INFO] Scraped new articles
+[2025-06-19 22:17:17,884] [INFO] Notifying of new articles
+[2025-06-19 22:17:17,888] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:17:17,889] [INFO] Saved new articles to articles.json
+[2025-06-19 22:18:06,504] [INFO] Scraped new articles
+[2025-06-19 22:18:06,505] [INFO] Notifying of new articles
+[2025-06-19 22:18:06,509] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:18:06,510] [INFO] Saved new articles to articles.json
+[2025-06-19 22:18:32,569] [INFO] Scraped new articles
+[2025-06-19 22:18:32,570] [INFO] Notifying of new articles
+[2025-06-19 22:18:32,575] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:18:54,028] [INFO] Scraped new articles
+[2025-06-19 22:18:54,029] [INFO] Notifying of new articles
+[2025-06-19 22:18:54,033] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:19:06,734] [INFO] Scraped new articles
+[2025-06-19 22:19:06,735] [INFO] Notifying of new articles
+[2025-06-19 22:19:06,742] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:19:32,584] [INFO] Scraped new articles
+[2025-06-19 22:19:32,585] [INFO] Notifying of new articles
+[2025-06-19 22:19:32,591] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:19:55,924] [INFO] Scraped new articles
+[2025-06-19 22:19:55,924] [INFO] Notifying of new articles
+[2025-06-19 22:19:55,928] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:20:08,303] [INFO] Scraped new articles
+[2025-06-19 22:20:08,303] [INFO] Notifying of new articles
+[2025-06-19 22:20:08,309] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-19 22:20:16,184] [INFO] Scraped new articles
+[2025-06-19 22:20:16,185] [INFO] Notifying of new articles
+[2025-06-19 22:20:16,195] [INFO] POST /notify HTTP/1.1 response: 200 Success

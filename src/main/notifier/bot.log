@@ -214,3 +214,47 @@
 * ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
 " to channel_id: 1384111938228719681
 [2025-06-19 22:05:46,001] [INFO] Shard ID None session has been invalidated.
+[2025-06-19 22:13:14,624] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-19 22:13:14,626] [INFO] logging in using static token
+[2025-06-19 22:13:14,642] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-19 22:13:14,642] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-19 22:13:16,561] [INFO] Shard ID None has connected to Gateway (Session ID: a5f8ad645bc5df2acff9ab23e7defe0b).
+[2025-06-19 22:13:18,566] [INFO] Bot Ready
+[2025-06-19 22:13:20,980] [INFO] 127.0.0.1 - - [19/Jun/2025 22:13:20] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:14:16,758] [INFO] 127.0.0.1 - - [19/Jun/2025 22:14:16] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:14:54,422] [INFO] 127.0.0.1 - - [19/Jun/2025 22:14:54] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:15:24,217] [INFO] 127.0.0.1 - - [19/Jun/2025 22:15:24] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:15:43,622] [INFO] 127.0.0.1 - - [19/Jun/2025 22:15:43] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:16:32,494] [INFO] 127.0.0.1 - - [19/Jun/2025 22:16:32] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:16:40,861] [INFO] 127.0.0.1 - - [19/Jun/2025 22:16:40] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:16:54,421] [INFO] 127.0.0.1 - - [19/Jun/2025 22:16:54] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:17:17,887] [INFO] 127.0.0.1 - - [19/Jun/2025 22:17:17] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:18:06,508] [INFO] 127.0.0.1 - - [19/Jun/2025 22:18:06] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:18:32,574] [INFO] 127.0.0.1 - - [19/Jun/2025 22:18:32] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:18:54,032] [INFO] 127.0.0.1 - - [19/Jun/2025 22:18:54] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:18:58,166] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-19 22:18:58,170] [INFO] logging in using static token
+[2025-06-19 22:18:58,176] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-19 22:18:58,176] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-19 22:18:59,930] [INFO] Shard ID None has connected to Gateway (Session ID: e6a72e6854fda7a9c32a06de445c9e08).
+[2025-06-19 22:19:01,935] [INFO] Bot Ready
+[2025-06-19 22:19:06,741] [INFO] 127.0.0.1 - - [19/Jun/2025 22:19:06] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:19:32,589] [INFO] 127.0.0.1 - - [19/Jun/2025 22:19:32] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:19:55,927] [INFO] 127.0.0.1 - - [19/Jun/2025 22:19:55] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:20:01,484] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-19 22:20:01,486] [INFO] logging in using static token
+[2025-06-19 22:20:01,493] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-19 22:20:01,494] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-19 22:20:03,246] [INFO] Shard ID None has connected to Gateway (Session ID: 1bbcfcb113749f639890b4e8b7bc5e01).
+[2025-06-19 22:20:05,250] [INFO] Bot Ready
+[2025-06-19 22:20:08,307] [INFO] 127.0.0.1 - - [19/Jun/2025 22:20:08] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:20:08,748] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
+[2025-06-19 22:20:16,192] [INFO] 127.0.0.1 - - [19/Jun/2025 22:20:16] "POST /notify HTTP/1.1" 200 -
+[2025-06-19 22:20:16,563] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681

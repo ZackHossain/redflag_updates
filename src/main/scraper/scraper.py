@@ -3,6 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from sender import notify
 
+from log import log_info, log_error
 
 # Define the base URL
 base_url = "https://redflag.org.au"
@@ -33,6 +34,7 @@ def get_titles(bs):
             if new_article not in articles:
                 articles.append(new_article)
     
+    log_info('Scraped new articles')
     return articles
 
 def get_old_articles():
@@ -58,7 +60,7 @@ def save_new_articles(articles):
     with open('articles.json', 'w') as fd:
         json.dump(articles, fd, ensure_ascii=False, indent=4)
     
-    print('saved articles')
+    log_info('Saved new articles to articles.json')
 
 def new_articles_notification(articles):
     msg = 'New article(s) on Red Flag! @everyone\n'
@@ -76,6 +78,8 @@ def new_articles_notification(articles):
             title = href[31:]
         msg = msg + f'* [\"{title}\"]({href})\n'
         i = i + 1 
+        
+    log_info('Notifying of new articles')
     notify(msg)
     
 
@@ -93,4 +97,4 @@ if __name__ == '__main__':
     else:
         new_articles_notification(new_articles)
     
-    save_new_articles(updated_articles)
+    # save_new_articles(updated_articles)
