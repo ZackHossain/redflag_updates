@@ -12,6 +12,10 @@ A python-based tool to notify when new articles are posted to the [Red Flag Webs
 
     python3 notifier.py
 
+If you are running this in test mode:
+
+    python3 notifier.py -t
+
 ### 2. Run Scraper
 
     cd ..

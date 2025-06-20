@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 import discord
 from discord.ext import commands
@@ -92,7 +93,12 @@ def load_creds():
     with open(creds_path, 'r') as creds:
         data = json.load(creds)
         token = data['bot_token']
-        channel_id = data['channel_id']
+        if len(sys.argv) > 1 and sys.argv[1] == '-t':
+            channel_id = data['test_channel_id']
+            log_info('Started in TESTING mode')
+        else:
+            channel_id = data['channel_id']
+            log_info('Started in PRODUCTION mode')
     
 if __name__ == '__main__':
     load_creds()

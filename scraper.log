@@ -8,3 +8,23 @@
 [2025-06-20 10:10:17,349] [INFO] Saved new articles to articles.json
 [2025-06-20 10:10:20,178] [INFO] Scraped new articles
 [2025-06-20 10:10:20,179] [INFO] Saved new articles to articles.json
+[2025-06-20 14:27:36,008] [INFO] Scraped new articles
+[2025-06-20 14:27:36,010] [INFO] Saved new articles to articles.json
+[2025-06-20 14:27:44,770] [INFO] Scraped new articles
+[2025-06-20 14:27:44,770] [INFO] Notifying of new articles
+[2025-06-20 14:27:44,778] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-20 14:27:44,779] [INFO] Saved new articles to articles.json
+[2025-06-20 14:28:51,061] [INFO] Scraped new articles
+[2025-06-20 14:28:51,062] [INFO] Saved new articles to articles.json
+[2025-06-20 14:30:20,437] [INFO] Scraped new articles
+[2025-06-20 14:30:20,438] [INFO] Saved new articles to articles.json
+[2025-06-20 14:30:26,021] [INFO] Scraped new articles
+[2025-06-20 14:30:26,022] [INFO] Notifying of new articles
+[2025-06-20 14:30:26,029] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-20 14:30:26,030] [INFO] Saved new articles to articles.json
+[2025-06-20 14:31:53,865] [INFO] Scraped new articles
+[2025-06-20 14:31:53,866] [INFO] Saved new articles to articles.json
+[2025-06-20 14:31:58,870] [INFO] Scraped new articles
+[2025-06-20 14:31:58,870] [INFO] Notifying of new articles
+[2025-06-20 14:31:58,878] [INFO] POST /notify HTTP/1.1 response: 200 Success
+[2025-06-20 14:31:58,879] [INFO] Saved new articles to articles.json

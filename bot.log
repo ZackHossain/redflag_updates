@@ -17,3 +17,46 @@
 [2025-06-20 10:10:17,668] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
 * ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
 " to channel_id: 1384111938228719681
+[2025-06-20 10:15:55,885] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 10:15:55,886] [INFO] Started in TESTING mode
+[2025-06-20 10:15:55,888] [INFO] logging in using static token
+[2025-06-20 10:15:55,895] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-20 10:15:55,895] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-20 10:15:58,552] [INFO] Shard ID None has connected to Gateway (Session ID: e358504acfb2795084b1ee5892c88da3).
+[2025-06-20 10:16:00,557] [INFO] Bot Ready
+[2025-06-20 12:36:40,010] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 12:52:03,646] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 13:07:51,283] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 13:19:22,916] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 13:35:59,733] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 13:36:11,628] [INFO] Shard ID None has connected to Gateway (Session ID: 8acd2f111bca830259d5fbfa55b48497).
+[2025-06-20 13:51:27,518] [INFO] Bot Ready
+[2025-06-20 14:16:01,877] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 14:17:07,741] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 14:20:22,478] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 14:20:28,407] [INFO] Shard ID None has connected to Gateway (Session ID: f097603a059516b5a9af48ef1c5541c9).
+[2025-06-20 14:20:30,413] [INFO] Bot Ready
+[2025-06-20 14:27:12,025] [INFO] Shard ID None session has been invalidated.
+[2025-06-20 14:27:17,834] [INFO] Shard ID None has connected to Gateway (Session ID: f03eb3a7e5879630a3964c4a6749ee3d).
+[2025-06-20 14:27:19,837] [INFO] Bot Ready
+[2025-06-20 14:27:44,776] [INFO] 127.0.0.1 - - [20/Jun/2025 14:27:44] "POST /notify HTTP/1.1" 200 -
+[2025-06-20 14:27:45,198] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
+[2025-06-20 14:27:58,107] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 14:28:54,603] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 14:30:10,840] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 14:30:10,841] [INFO] Started in PRODUCTION mode
+[2025-06-20 14:30:10,843] [INFO] logging in using static token
+[2025-06-20 14:30:10,849] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-20 14:30:10,849] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-20 14:30:12,170] [INFO] Shard ID None has connected to Gateway (Session ID: e12bfaff40975e44fb4941ee76ffd226).
+[2025-06-20 14:30:14,190] [INFO] Bot Ready
+[2025-06-20 14:30:26,027] [INFO] 127.0.0.1 - - [20/Jun/2025 14:30:26] "POST /notify HTTP/1.1" 200 -
+[2025-06-20 14:30:26,028] [ERROR] Channel not found: 1385411881518235684
+[2025-06-20 14:31:58,876] [INFO] 127.0.0.1 - - [20/Jun/2025 14:31:58] "POST /notify HTTP/1.1" 200 -
+[2025-06-20 14:31:59,757] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1385411881518235684
