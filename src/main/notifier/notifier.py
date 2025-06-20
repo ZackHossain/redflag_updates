@@ -1,4 +1,5 @@
 import json
+import os
 
 import discord
 from discord.ext import commands
@@ -85,7 +86,10 @@ def load_creds():
     global token
     global channel_id
     
-    with open('credentials.json', 'r') as creds:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    creds_path = os.path.join(base_dir, 'credentials.json')
+    
+    with open(creds_path, 'r') as creds:
         data = json.load(creds)
         token = data['bot_token']
         channel_id = data['channel_id']

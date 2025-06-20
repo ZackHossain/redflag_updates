@@ -1,0 +1,19 @@
+[2025-06-20 10:06:34,338] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 10:08:14,324] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 10:08:14,326] [INFO] logging in using static token
+[2025-06-20 10:08:14,333] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-06-20 10:08:14,333] [INFO] [33mPress CTRL+C to quit[0m
+[2025-06-20 10:08:15,895] [INFO] Shard ID None has connected to Gateway (Session ID: b22946c01b722de0e09cbb85030e4844).
+[2025-06-20 10:08:17,901] [INFO] Bot Ready
+[2025-06-20 10:08:27,331] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2025-06-20 10:08:27,334] [INFO] logging in using static token
+[2025-06-20 10:08:28,917] [INFO] Shard ID None has connected to Gateway (Session ID: 4a9e2616ebf1746835a01dea6e18d320).
+[2025-06-20 10:10:08,603] [INFO] 127.0.0.1 - - [20/Jun/2025 10:10:08] "POST /notify HTTP/1.1" 200 -
+[2025-06-20 10:10:08,958] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681
+[2025-06-20 10:10:17,346] [INFO] 127.0.0.1 - - [20/Jun/2025 10:10:17] "POST /notify HTTP/1.1" 200 -
+[2025-06-20 10:10:17,668] [INFO] Bot sent message: "New article(s) on Red Flag! @everyone
+* ["when-the-first-freedom-flotilla-broke-the-siege-of-gaza"](https://redflag.org.au/article/when-the-first-freedom-flotilla-broke-the-siege-of-gaza)
+" to channel_id: 1384111938228719681

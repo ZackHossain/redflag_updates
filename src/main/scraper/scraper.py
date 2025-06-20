@@ -1,12 +1,15 @@
 import requests
 import json
+import os
 from bs4 import BeautifulSoup
 from sender import notify
 
 from log import log_info, log_error
 
-# Define the base URL
 base_url = "https://redflag.org.au"
+
+base_dir = os.path.dirname(os.path.abspath(__file__))
+articles_path = os.path.join(base_dir, 'articles.json')
 
 # Find all article titles
 def get_titles(bs):
@@ -39,7 +42,7 @@ def get_titles(bs):
 
 def get_old_articles():
     old_articles = None
-    with open('articles.json', 'r') as fd:
+    with open(articles_path, 'r') as fd:
         return json.load(fd)
 
 # checks if articles are different
@@ -57,7 +60,7 @@ def compare_articles(old, new):
     return new_articles
 
 def save_new_articles(articles):
-    with open('articles.json', 'w') as fd:
+    with open(articles_path, 'w') as fd:
         json.dump(articles, fd, ensure_ascii=False, indent=4)
     
     log_info('Saved new articles to articles.json')
@@ -97,4 +100,4 @@ if __name__ == '__main__':
     else:
         new_articles_notification(new_articles)
     
-    # save_new_articles(updated_articles)
+    save_new_articles(updated_articles)
