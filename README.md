@@ -1,3 +1,7 @@
+# @Deprecated
+## Now using [Redflag Updates V2.0](https://github.com/ZackHossain/redflag_updates_v2)
+## Notifying via NTFY
+
 # Red Flag Updates
 
 A python-based tool to notify when new articles are posted to the [Red Flag Website](https://redflag.org.au)
